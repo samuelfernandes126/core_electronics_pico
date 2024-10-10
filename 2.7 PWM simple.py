@@ -1,4 +1,4 @@
-from machine import PWM, Pin
+from machine import PWM, Pin, ADC
 
 pwm_pin = PWM(Pin(16))
 
